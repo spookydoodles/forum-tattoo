@@ -13,7 +13,7 @@ const works = [
   {title: "tetoválás",          style:"Fine line",   src: "images/tattoo6.jpg"},
   {title: "tetoválás",      style:"Realisztikus", src: "images/tattoo7.jpg"},
   {title: "tetoválás",       style:"Portré",   src: "images/tattoo8.jpg"},
-  {title: "tetoválás",    style:"Fekete-szürke",   src: "images/sasa1.jpeg"},
+  {title: "tetoválás",    style:"Fekete-szürke",   src: "images/Sasa1.jpeg"},
   {title: "tetoválás",    style:"Fekete-szürke",   src: placeholder(0,0)},
   {title: "tetoválás",    style:"Fekete-szürke",   src: placeholder(0,0)},
   {title: "tetoválás",    style:"Fekete-szürke",   src: placeholder(0,0)},
