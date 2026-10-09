@@ -227,6 +227,10 @@ p {
     border-top: 1.5px solid var(--black)
 }
 
+.carousel {
+    touch-action: pan-y
+}
+
 .capsules div {
     flex: 0 1 150px;
     border: 1.5px solid var(--black);
@@ -396,6 +400,12 @@ p {
 @media (max-width:600px) {
     .grid {
         grid-template-columns: 1fr
+    }
+    #form .btn {
+        justify-self: center;
+    }
+    .hero {
+        padding-top: 100px;
     }
 }
 
